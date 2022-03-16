@@ -1,20 +1,12 @@
-var cantidadDeVentanasEnMiCasa = 6;
-console.log("Cantidad de ventanas en casa: " + cantidadDeVentanasEnMiCasa);
+/*Ejercicios Practicos N° 1 1- Deberán mostrar por consola los siguientes
+datos: 
+a) Mostrar el día de tu cumpleaños (en numero) Ej: 23 
+b) Mostrar el mes de tu cumpleaños (en numero) Ej: 07 
+c) Mostrar el año de tu nacimiento.
+d) Mostrar tu número favorito. */
 
-var soyHumano = true;
-console.log("Soy Humano: " + soyHumano);
-
-var miGustoDePizzaPreferido = "'Napolitana'";
-console.log("Mi Pizza Favorita es la : " + miGustoDePizzaPreferido);
-
-var otroValor = false;
-console.log(otroValor);
-
-var otroValor = "Hola";
-console.log(otroValor);
-
-var otroValor = 0;
-console.log(otroValor);
-
-var otroValor = "Minions";
-console.log(otroValor);
+console.log("Hola Mundo Javascript");
+console.log(8);
+console.log(11);
+console.log(1983);
+console.log(99);
